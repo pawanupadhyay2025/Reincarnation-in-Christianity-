@@ -1,3 +1,8 @@
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17619219.svg)](https://doi.org/10.5281/zenodo.17619219)
+
+# Research Paper: Reincarnation in Christianity — A Biblical Analysis
+
 # Reincarnation-in-Christianity-
 
 
@@ -340,3 +345,15 @@ This research demonstrates the following:
 Thus, reincarnation is fully compatible with Christian scripture and theology.
 This paper invites Christian institutions, scholars, and theologians to revisit the doctrine with open and honest examination.
 
+
+---
+
+## 📘 Zenodo Archive
+
+This research paper is permanently archived on Zenodo:
+
+🔗 **DOI:** https://doi.org/10.5281/zenodo.17619219
+
+To cite this work:
+
+> Pawan Upadhyay. *Reincarnation in Christianity: A Biblical Research Paper.* Zenodo (2025). DOI: 10.5281/zenodo.17619219
