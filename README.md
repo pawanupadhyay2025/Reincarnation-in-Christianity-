@@ -15,6 +15,9 @@ Independent Researcher
 Email: pawanupadhyay28@hotmail.com
 
 
+Status: ✅ Verified on GitHub
+
+
 Abstract
 
 Mainstream Christianity rejects reincarnation, yet the Bible contains multiple passages that support the concepts of pre-existence of the soul, rebirth, return of prophetic identities, and divine justice across lifetimes. This research examines biblical texts from the Old and New Testaments—such as Jeremiah 1:5, Matthew 17:12–13, John 9:1–3, and Hebrews 9:27—alongside historical Christian writings. The study argues that reincarnation is compatible with Christian theology when read in proper context. This paper proposes a renewed theological dialogue on reincarnation as part of Christian spiritual understanding.
