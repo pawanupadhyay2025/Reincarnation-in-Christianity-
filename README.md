@@ -1,6 +1,4 @@
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17619219.svg)](https://doi.org/10.5281/zenodo.17619219)
-
 [![OSF DOI](https://img.shields.io/badge/DOI-10.17605%2Fosf.io%2Frk6dc-blue?logo=doi)](https://doi.org/10.17605/osf.io/rk6dc)
 
 [![Archive](https://img.shields.io/badge/Archive-Read%20Now-blue?logo=internetarchive)](https://archive.org/details/resurrectionandreincarnation)
@@ -357,12 +355,10 @@ This paper invites Christian institutions, scholars, and theologians to revisit 
 
 ---
 
-## 📘 Zenodo Archive
+## 📘'OSF and Archive.org' Archive
 
-This research paper is permanently archived on Zenodo:
+This research paper is permanently archived on OSF and Archive.org:
 
-🔗 **DOI:** https://doi.org/10.5281/zenodo.17619219
+[![OSF DOI](https://img.shields.io/badge/DOI-10.17605%2Fosf.io%2Frk6dc-blue?logo=doi)](https://doi.org/10.17605/osf.io/rk6dc)
 
-To cite this work:
-
-> Pawan Upadhyay. *Reincarnation in Christianity: A Biblical Research Paper.* Zenodo (2025). DOI: 10.5281/zenodo.17619219
+[![Archive](https://img.shields.io/badge/Archive-Read%20Now-blue?logo=internetarchive)](https://archive.org/details/resurrectionandreincarnation)
