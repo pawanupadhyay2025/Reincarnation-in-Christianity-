@@ -362,3 +362,10 @@ This research paper is permanently archived on OSF and Archive.org:
 [![OSF DOI](https://img.shields.io/badge/DOI-10.17605%2Fosf.io%2Frk6dc-blue?logo=doi)](https://doi.org/10.17605/osf.io/rk6dc)
 
 [![Archive](https://img.shields.io/badge/Archive-Read%20Now-blue?logo=internetarchive)](https://archive.org/details/resurrectionandreincarnation)
+
+![Copyright](https://img.shields.io/badge/Copyright-©%202025–2026%20Pawan%20Upadhyay-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--ND%204.0-green)
+
+Copyright © 2025–2026 Pawan Upadhyay  
+Licensed under Creative Commons Attribution–NoDerivatives 4.0 International  
+https://creativecommons.org/licenses/by-nd/4.0/
