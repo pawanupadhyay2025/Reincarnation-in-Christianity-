@@ -3,6 +3,8 @@
 
 [![Archive](https://img.shields.io/badge/Archive-Read%20Now-blue?logo=internetarchive)](https://archive.org/details/resurrectionandreincarnation)
 
+[![Research Resume](https://img.shields.io/badge/Research%20Resume-Archive.org-blue?style=flat-square&logo=internetarchive)](https://archive.org/details/my-research-resume)
+
 # Research Paper: Reincarnation in Christianity — A Biblical Analysis
 
 # Reincarnation-in-Christianity-
